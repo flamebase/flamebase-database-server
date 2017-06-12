@@ -1,0 +1,38 @@
+{
+    ".contacts.fff@ggg.com": {
+        "tokens": {
+            "egim4I2L7mE:APA91bEgpXED3efU6CXLH324-phmk5izQZ93AUmJgQBtKNCyf34LV1Cuv2kXtDHooxI3QhWgJsvFvJR9pzAwZB7kAClwiNm4JsTf-JdYqdtDt8qW7ZmSCCGiaT7VKfm_MHBzQe8itVm0": {
+                "time": 1497305212964,
+                "os": "android"
+            }
+        },
+        "path": "/contacts/fff@ggg.com"
+    },
+    ".chats.1497304781813": {
+        "tokens": {
+            "egim4I2L7mE:APA91bEgpXED3efU6CXLH324-phmk5izQZ93AUmJgQBtKNCyf34LV1Cuv2kXtDHooxI3QhWgJsvFvJR9pzAwZB7kAClwiNm4JsTf-JdYqdtDt8qW7ZmSCCGiaT7VKfm_MHBzQe8itVm0": {
+                "time": 1497304776319,
+                "os": "android"
+            }
+        },
+        "path": "/chats/1497304781813"
+    },
+    ".chats.1497305002088": {
+        "tokens": {
+            "egim4I2L7mE:APA91bEgpXED3efU6CXLH324-phmk5izQZ93AUmJgQBtKNCyf34LV1Cuv2kXtDHooxI3QhWgJsvFvJR9pzAwZB7kAClwiNm4JsTf-JdYqdtDt8qW7ZmSCCGiaT7VKfm_MHBzQe8itVm0": {
+                "time": 1497304996513,
+                "os": "android"
+            }
+        },
+        "path": "/chats/1497305002088"
+    },
+    ".chats.1497305996660": {
+        "tokens": {
+            "egim4I2L7mE:APA91bEgpXED3efU6CXLH324-phmk5izQZ93AUmJgQBtKNCyf34LV1Cuv2kXtDHooxI3QhWgJsvFvJR9pzAwZB7kAClwiNm4JsTf-JdYqdtDt8qW7ZmSCCGiaT7VKfm_MHBzQe8itVm0": {
+                "time": 1497305991018,
+                "os": "android"
+            }
+        },
+        "path": "/chats/1497305996660"
+    }
+}

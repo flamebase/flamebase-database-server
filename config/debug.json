@@ -1,0 +1,22 @@
+{
+  "silent": false,
+  "uid": "flamebase-database",
+  "pidFile": "./flamebase-database.pid",
+  "max": 10,
+  "killTree": true,
+
+  "minUptime": 2000,
+  "spinSleepTime": 1000,
+
+  "sourceDir": "./",
+
+  "watch": false,
+  "watchIgnoreDotFiles": null,
+  "watchIgnorePatterns": null,
+  "watchDirectory": null,
+
+
+  "logFile": "./logs/logFile.log",
+  "outFile": "./logs/outFile.log",
+  "errFile": "./logs/errFile.log"
+}

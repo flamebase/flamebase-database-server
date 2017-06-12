@@ -1,0 +1,33 @@
+{
+  "name": "flamebase-database-server-cluster",
+  "version": "1.0.0",
+  "description": "Server cluster for real time database ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flamebase/flamebase-database-server-cluster.git"
+  },
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "latest",
+    "flamebase-database-node": "^1.0.2",
+    "forever-monitor": "^1.7.1",
+    "log4js": "latest"
+  },
+  "keywords": [
+    "server",
+    "cluster",
+    "json",
+    "realtime",
+    "database"
+  ],
+  "author": "efraespada@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/flamebase/flamebase-database-server-cluster/issues"
+  },
+  "homepage": "https://github.com/flamebase/flamebase-database-server-cluster#readme"
+}
