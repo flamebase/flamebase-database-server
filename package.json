@@ -1,7 +1,7 @@
 {
   "name": "flamebase-database-server-cluster",
   "version": "1.0.0",
-  "description": "Server cluster for real time database ",
+  "description": "Server cluster to hold a realtime JSON database",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,10 +15,12 @@
     "express": "latest",
     "flamebase-database-node": "^1.1.1",
     "forever-monitor": "^1.7.1",
+    "json-align": "^0.1.0",
     "log4js": "latest",
     "rus-diff": "^1.1.0"
   },
   "keywords": [
+    "flamebase",
     "server",
     "cluster",
     "json",

@@ -9,6 +9,7 @@ var Path =                  require("./model/path.js");
 var apply =                 require('rus-diff').apply;
 var clone =                 require('rus-diff').clone;
 
+JSON.stringifyAligned = require('json-align');
 
 String.prototype.replaceAll = function(search, replacement) {
     var target = this;
@@ -61,7 +62,7 @@ if (cluster.isMaster) {
             logger.info("worker: " + pId);
             logger.info("response: " + JSON.stringify(result));
             connection.response.contentType('application/json');
-            connection.response.send(JSON.stringify(result));
+            connection.response.send(result);
         },
         addSingleListener: function (connection, pId) {
             this.addGreatListener(connection, pId);

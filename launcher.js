@@ -1,7 +1,7 @@
 var FlamebaseDatabaseCluster = require('./index.js');
 
-var FSC = new FlamebaseDatabaseCluster("draco", 1507);
-FSC.initCluster({
+var FDC = new FlamebaseDatabaseCluster("draco", 1507);
+FDC.initCluster({
     start: function () {
         console.log("start!!")
     }

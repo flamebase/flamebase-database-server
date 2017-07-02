@@ -1,5 +1,32 @@
-# flamebase-database-server
-Main server to hold a realtime database
+# :fire: flamebase-database-server-cluster
+Server cluster to hold a realtime JSON database.
+
+### What is this?
+Flamebase is an open source project that tries to emulate Firebase Database features as much as possible. I like Firebase but it's expensive for what it currently offers.
+If you are doing an altruist project with Firebase, pray not to became successful, because the monthly amount will increase considerably.
+
+In this repo you can find the proper package for run a server cluster with node framework.
+For now it still developing, so please be patient with errors.
+
+### Libraries and packages
+Client options to connect with server cluster.
+
+- [Android](https://github.com/flamebase/flamebase-database-android)
+```groovy
+compile 'com.flamebase:database:1.1.0'
+```
+
+- [Node](https://github.com/flamebase/flamebase-database-node)
+```bash
+npm install flamebase-database-node --save
+```
+
+### Setup
+
+Install package:
+```bash
+npm install flamebase-database-server-cluster --save
+```
 
 Create a server cluster to hold all realtime changes.
 
@@ -13,67 +40,20 @@ FSC.initCluster({
     }
 }, null);
 ```
-
-
-#### Long life listener for token
-
-Returns JSON differences every time path's object changes.
-```json
-{
-    "method": "long_life_listener",
-    "path":   "/varA",
-    "token":  "jhdfskdjfgSDFgdFfFdfgDFgasfdGsdfbf",
-    "os":     "android"
-}
+Alternatively you can start the server cluster by cloning this repo and launch on terminal:
+```bash
+node launcher.js 
 ```
-
-#### Simple listener for token
-
-Returns JSON differences only once and dies.
-```json
-{
-    "method": "simple_listener",
-    "path":   "/varA",
-    "token":  "jhdfskdjfgSDFgdFfFdfgDFgasfdGsdfbf",
-    "os":     "android"
-}
+Console Output:
+```bash
+start!!
+[2017-07-02 21:05:48.337] [INFO] SERVER CLUSTER - Master 40001 is running
+[2017-07-02 21:05:48.836] [INFO] SERVER CLUSTER - server cluster started on port 1507 on 2 worker
+[2017-07-02 21:05:48.836] [INFO] SERVER CLUSTER - server cluster started on port 1507 on 5 worker
+[2017-07-02 21:05:48.837] [INFO] SERVER CLUSTER - server cluster started on port 1507 on 3 worker
+[2017-07-02 21:05:48.836] [INFO] SERVER CLUSTER - server cluster started on port 1507 on 1 worker
+[2017-07-02 21:05:48.839] [INFO] SERVER CLUSTER - server cluster started on port 1507 on 4 worker
+[2017-07-02 21:05:48.838] [INFO] SERVER CLUSTER - server cluster started on port 1507 on 7 worker
+[2017-07-02 21:05:48.839] [INFO] SERVER CLUSTER - server cluster started on port 1507 on 8 worker
+[2017-07-02 21:05:48.839] [INFO] SERVER CLUSTER - server cluster started on port 1507 on 6 worker
 ```
-
-#### Update data
-
-Updates data.
-```json
-{
-    "method": "update_data",
-    "path":   "/varA/varB",
-    "differences":  {
-        "$set": {
-            "varC": {},
-            "varC.varD": "hello",
-            "varC.varDA":"world"
-        },
-        "$unset": {
-            "varD": true
-        }
-    }
-}
-```
-_____
-
-#### Responses
-
-`missing_params` Some param is missing in the request.
-
-`listener_not_found` No listeners were found for the given path. Create new one.
-
-`no_diff_updated` No differences were found in the request.
-
-`json_path_not_found` Path is missing in the request.
-
-`inconsistency_length` non-updated data.
-
-`data_updated`
-
-`listener_already_added`
-
-`listener_added`

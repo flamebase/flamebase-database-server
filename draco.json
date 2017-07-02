@@ -1,259 +1,94 @@
 {
     "contacts": {
-        "yuuuuuuuu": {
-            "email": "jijiji@jojo.com",
-            "name": "yuuuuuuuu",
+        "efra": {
+            "email": "efra@gmail.com",
+            "name": "efra",
             "os": "android",
-            "token": "eyJ-SE6cbrU:APA91bHyOoenGkdL68_9zrWebVnIVCM8posdkbRkgQ7jgRWCEOOMtqlX9BhhIKke4zFD2n8Eg1VdF9RaEXTPQ_5Tt2-TNYz_L3tOCH0rBDwmI68vU8_L7fO9B4nACjBsgbWOP8g0JX28"
+            "token": "dY6rVZP2cC0:APA91bHNFrFVshiWuRvBfJsZIHXUkiuN4Sa25hB1gYzmNUtcXXJN7yEPXBxU8uoBpTkPDinsxUtkfAdEsZO9nkG-gdSPvHya2slCSsumupZu8Wn3k8zVlrQ3kdgRTykiQAu6uCD0vz-X"
         },
-        "hshsh": {
-            "email": "jajajsj",
-            "name": "hshsh",
+        "gggttfnb": {
+            "email": "ffggggdfdfc",
+            "name": "gggttfnb",
             "os": "android",
-            "token": "d231dhfya9U:APA91bEcxyX-VvbNm7LGGsWKs2DILIVPMPD374_RQwBkLMrFKRyyL9PQC0UPGzRNLoqJ6Av678n9AwxGv-WKwoFVFy3k8uyWxqZZymvbJvvnEtffkOOPJXVmqFVKfXKxCbuPEdZNAqt2"
+            "token": "edYbarLcDgg:APA91bEpinFBJh9LSaecXvcjNvfgpwZ2Vv1cGnvjVF9zlUL7hV5iZF_CGDsRQLATP9eGHOFVNXneOaicml1Hlo04X4I9fTBLSYw277WeBCA7rPToUR5blQ29vLAwjcu44ue0-5423ed3"
         }
     },
     "chats": {
-        "1497801900716": {
+        "1498979009624": {
             "members": [
-                "jijiji@jojo.com"
+                "ffggggdfdfc"
             ],
             "messages": {
-                "1498332062268": {
-                    "author": "yuuuuuuuu",
-                    "text": "jjjjjj"
+                "1498979208967": {
+                    "author": "gggttfnb",
+                    "text": "ggggg"
                 },
-                "1498332185217": {
-                    "author": "yuuuuuuuu",
-                    "text": "hola mundo"
-                },
-                "1498332187324": {
-                    "author": "yuuuuuuuu",
-                    "text": "hola mundo"
-                },
-                "1498332312039": {
-                    "author": "yuuuuuuuu",
-                    "text": "hhhhh"
-                },
-                "1498332342292": {
-                    "author": "yuuuuuuuu",
-                    "text": "hhhhh"
-                },
-                "1498332516772": {
-                    "author": "yuuuuuuuu",
-                    "text": "gggddtddgugf"
-                },
-                "1498332757292": {
-                    "author": "yuuuuuuuu",
-                    "text": "hhhhhkkkkooooo"
-                },
-                "1498332760544": {
-                    "author": "yuuuuuuuu",
-                    "text": "lookipo"
-                },
-                "1498332763836": {
-                    "author": "yuuuuuuuu",
-                    "text": "jjjjuijj"
-                },
-                "1498332764823": {
-                    "author": "yuuuuuuuu",
-                    "text": ""
-                },
-                "1498332767904": {
-                    "author": "yuuuuuuuu",
-                    "text": "hgfddccdd"
-                },
-                "1498332775091": {
-                    "author": "yuuuuuuuu",
-                    "text": "ygggyt"
-                },
-                "1498332780200": {
-                    "author": "yuuuuuuuu",
-                    "text": "ijjjujhu"
-                },
-                "1498332805845": {
-                    "author": "yuuuuuuuu",
-                    "text": "hola"
-                }
-            },
-            "name": "chiiiiiiii"
-        },
-        "1497801942633": {
-            "members": [
-                "jijiji@jojo.com"
-            ],
-            "messages": {},
-            "name": "paaaaco"
-        },
-        "1497801988077": {
-            "members": [
-                "jijiji@jojo.com"
-            ],
-            "messages": {},
-            "name": "jelou"
-        },
-        "1497801994305": {
-            "members": [
-                "jijiji@jojo.com"
-            ],
-            "messages": {},
-            "name": "yuuuuuu"
-        },
-        "1497802116890": {
-            "members": [
-                "jijiji@jojo.com"
-            ],
-            "messages": {},
-            "name": "tutururu"
-        },
-        "1497802136285": {
-            "members": [
-                "jijiji@jojo.com"
-            ],
-            "messages": {},
-            "name": "jajaja"
-        },
-        "1497802335148": {
-            "members": [
-                "jijiji@jojo.com"
-            ],
-            "messages": {},
-            "name": "yuuuuuuuuuuuu"
-        },
-        "1497802457040": {
-            "members": [
-                "jijiji@jojo.com"
-            ],
-            "messages": {},
-            "name": "tttttttt"
-        },
-        "1497802468426": {
-            "members": [
-                "jijiji@jojo.com"
-            ],
-            "messages": {},
-            "name": "e"
-        },
-        "1497802473075": {
-            "members": [
-                "jijiji@jojo.com"
-            ],
-            "messages": {},
-            "name": "r"
-        },
-        "1497802478059": {
-            "members": [
-                "jijiji@jojo.com"
-            ],
-            "messages": {},
-            "name": "i"
-        },
-        "1497802505415": {
-            "members": [
-                "jijiji@jojo.com"
-            ],
-            "messages": {},
-            "name": "o"
-        },
-        "1497804765453": {
-            "members": [
-                "jijiji@jojo.com"
-            ],
-            "messages": {},
-            "name": "yuuuttrrrreez"
-        },
-        "1497804827243": {
-            "members": [
-                "jijiji@jojo.com"
-            ],
-            "messages": {},
-            "name": "3eeeeeeeee"
-        },
-        "1498327107530": {
-            "members": [
-                "jijiji@jojo.com"
-            ],
-            "messages": {},
-            "name": "lalalalalalalL"
-        },
-        "1498333065600": {
-            "members": [
-                "jajajsj"
-            ],
-            "messages": {},
-            "name": "lllllll"
-        },
-        "1498333283933": {
-            "members": [
-                "jajajsj"
-            ],
-            "messages": {
-                "1498333908564": {
-                    "author": "hshsh",
-                    "text": "jajs"
-                }
-            },
-            "name": "hahshshshshsh"
-        },
-        "1498333657022": {
-            "members": [
-                "jajajsj"
-            ],
-            "messages": {
-                "1498333954366": {
-                    "author": "hshsh",
-                    "text": "jajajajaj"
-                }
-            },
-            "name": "fafa"
-        },
-        "1498333987690": {
-            "members": [
-                "jijiji@jojo.com"
-            ],
-            "messages": {
-                "1498334010101": {
-                    "author": "yuuuuuuuu",
-                    "text": "h"
-                },
-                "1498334082117": {
-                    "author": "yuuuuuuuu",
-                    "text": "jhhhuhgy"
-                },
-                "1498334084543": {
-                    "author": "yuuuuuuuu",
-                    "text": "hyggf"
-                },
-                "1498334086574": {
-                    "author": "yuuuuuuuu",
-                    "text": "hhg"
-                },
-                "1498334089567": {
-                    "author": "yuuuuuuuu",
-                    "text": "gggytf"
-                },
-                "1498334097929": {
-                    "author": "yuuuuuuuu",
-                    "text": "bnh"
-                },
-                "1498334102845": {
-                    "author": "yuuuuuuuu",
-                    "text": "gty"
-                },
-                "1498334136473": {
-                    "author": "yuuuuuuuu",
+                "1498979230058": {
+                    "author": "gggttfnb",
                     "text": "hola"
                 },
-                "1498334142789": {
-                    "author": "yuuuuuuuu",
-                    "text": "qu���������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������� tal?"
+                "1498979319739": {
+                    "author": "gggttfnb",
+                    "text": "we tal"
                 },
-                "1498334184344": {
-                    "author": "yuuuuuuuu",
-                    "text": "qu���� tal?"
+                "1498979541548": {
+                    "author": "gggttfnb",
+                    "text": "hhhhh"
+                },
+                "1498979544345": {
+                    "author": "gggttfnb",
+                    "text": "ijjjiuk"
+                },
+                "1498979547934": {
+                    "author": "gggttfnb",
+                    "text": "ggyh"
+                },
+                "1498979557321": {
+                    "author": "gggttfnb",
+                    "text": "tgtfgg"
+                },
+                "1498979570606": {
+                    "author": "gggttfnb",
+                    "text": "hyg"
+                },
+                "1498979575210": {
+                    "author": "gggttfnb",
+                    "text": "y"
+                },
+                "1498979603284": {
+                    "author": "gggttfnb",
+                    "text": "r"
+                },
+                "1498979606699": {
+                    "author": "gggttfnb",
+                    "text": "o"
+                },
+                "1498981815187": {
+                    "author": "gggttfnb",
+                    "text": "dddd"
                 }
             },
-            "name": "fafa"
+            "name": "ggggttgf"
+        },
+        "1498981200261": {
+            "members": [
+                "ffggggdfdfc"
+            ],
+            "messages": {
+                "1498981208117": {
+                    "author": "gggttfnb",
+                    "text": "ffff"
+                },
+                "1498981210612": {
+                    "author": "gggttfnb",
+                    "text": "uy"
+                },
+                "1498981531026": {
+                    "author": "gggttfnb",
+                    "text": "ttt"
+                }
+            },
+            "name": "tttteee"
         }
     }
 }
